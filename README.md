@@ -1,7 +1,7 @@
 # Programa-o-em-C.
 Programas em Linguagem C
 
-#include <stdil.h>
+#include <stdio.h>
 int main(void){
 
 int n, returnN, face[7], i;
